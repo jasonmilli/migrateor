@@ -1,0 +1,8 @@
+{
+    name: 'jasonmilli/migrateor',
+    description: 'DB Migrations package',
+    require: {
+        php: '^5.4 || ^7.0',
+        mysql: '^4.1'
+    }
+}
